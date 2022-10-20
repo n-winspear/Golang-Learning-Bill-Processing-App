@@ -6,6 +6,6 @@ func main() {
 
 	myBill := newBill("Nathan's Bill")
 
-	fmt.Println(myBill)
+	fmt.Println(myBill.formatBill())
 
 }
