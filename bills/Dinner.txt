@@ -1,0 +1,6 @@
+Bill breakdown: 
+chicken risoto: ...£12.99 
+potato bake:    ...£4.99 
+salad:          ...£15.67 
+tip:            ...£5.35
+total:          ...£39.00
